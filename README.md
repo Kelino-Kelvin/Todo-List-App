@@ -1,5 +1,8 @@
-# React + Vite
+# Me Trying out React + Vite
+This Was created entirely with the provisions of React, Vite and Tailwindcss
+The rest of this readme is the default script given by react + vite
 
+## The default readme
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
