@@ -1,4 +1,4 @@
-import { FullList } from "./TodoList"
+import { FullList } from "./FullList"
 
 function App() {
 

@@ -16,4 +16,8 @@
   button{
     @apply cursor-pointer
   }
+
+  .item-icon{
+    @apply text-white h-8 px-2 flex items-center justify-center gap-1 rounded-full
+  }
 }
